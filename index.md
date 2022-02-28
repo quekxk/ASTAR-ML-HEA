@@ -1,6 +1,6 @@
 <div>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Singapore_Institute_of_Technology_logo.svg/640px-Singapore_Institute_of_Technology_logo.svg.png" height="150"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/8/8b/A%2ASTAR_logo.png" height="150"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Singapore_Institute_of_Technology_logo.svg/640px-Singapore_Institute_of_Technology_logo.svg.png" height="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/8/8b/A%2ASTAR_logo.png" height="100"/>
 </div>
 
 # **Simplified machine learning approach for screening high hardness, low-density alloys**
@@ -40,38 +40,7 @@ During pre-processing, the following criteria were applied to the database:
 ### Data Analysis
 There are a total of 30 elements commonly used in HEA research. They are:
 
-Symbol | Element
---- | ---
-Ag | Silver
-Al | Aluminum
-B | Boron
-C | Carbon
-Ca | Calcium
-Co | Cobalt
-Cr | Chromium
-Cu | Copper
-Fe | Iron
-Ga | Gallium
-Hf | Hafnium
-Li | Lithium
-Mg | Magnesium
-Mn | Manganese
-Mo | Molybdenum
-Nb | Niobium
-Nd | Neodymium
-Ni | Nickel
-Pd | Lead
-Re | Rhenium
-Sc | Scandium
-Si | Silicon
-Sn | Tin
-Ta | Tantalum
-Ti | Titanium
-V | Vanadium
-W | Tungsten
-Y | Yttrium
-Zn | Zinc
-Zr | Zirconium
+Ag / Al / B / C / Ca / Co / Cr / Cu / Fe / Ga / Hf / Li / Mg / Mn / Mo / Nb / Nd / Ni / Pd / Re / Sc / Si / Sn / Ta / Ti / V / W / Y / Zn / Zr
 
 We plot the input data to observe the feature distribution. Features with no variance are dropped.
 
